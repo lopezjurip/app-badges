@@ -15,15 +15,15 @@ On your `README.md`:
 
 
 <!-- Put the following at the end of README.md -->
-[appstore-image]: http://mrpatiwi.github.io/app-badges/appstore.png
-[playstore-image]: http://mrpatiwi.github.io/app-badges/playstore.png
+[appstore-image]: https://mrpatiwi.github.io/app-badges/appstore.png
+[playstore-image]: https://mrpatiwi.github.io/app-badges/playstore.png
 
 <!-- Setup URLs -->
 [appstore-url]: https://itunes.apple.com/id/app/mapas-uc/id1080468856
 [playstore-url]: https://play.google.com/store/apps/details?id=com.almapp.ucmaps
 ```
 
-[appstore-image]: http://mrpatiwi.github.io/app-badges/appstore.png
+[appstore-image]: https://mrpatiwi.github.io/app-badges/appstore.png
 [appstore-url]: https://itunes.apple.com/id/app/mapas-uc/id1080468856
-[playstore-image]: http://mrpatiwi.github.io/app-badges/playstore.png
+[playstore-image]: https://mrpatiwi.github.io/app-badges/playstore.png
 [playstore-url]: https://play.google.com/store/apps/details?id=com.almapp.ucmaps
